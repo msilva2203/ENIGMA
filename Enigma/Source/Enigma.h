@@ -5,6 +5,7 @@
 
 
 // For use by Enigma Applications
+#include "Enigma/Log.h"
 #include "Enigma/Application.h"
 
 
