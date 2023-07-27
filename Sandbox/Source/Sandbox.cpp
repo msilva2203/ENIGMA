@@ -5,7 +5,7 @@ class Sandbox : public Enigma::Application
 public:
 	Sandbox()
 	{
-
+		
 	}
 
 	~Sandbox()

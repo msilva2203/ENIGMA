@@ -9,3 +9,7 @@
 #else
 	#error Platform is not supported
 #endif
+
+
+#define BIT(x) (1 << x)
+#define ASSERT(x) if(!(x)) __debugbreak()

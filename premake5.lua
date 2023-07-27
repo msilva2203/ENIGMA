@@ -26,6 +26,7 @@ project "Enigma"
 
     includedirs
     {
+        "%{prj.name}/Source",
         "%{prj.name}/Vendor/spdlog/include"
     }
 
